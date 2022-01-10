@@ -1,0 +1,6 @@
+# virtual assistant
+va.name: "Iron Man"
+va.master: "Panayiotis"
+va.pause_threshold: 2
+va.listen: True
+va.weather.api_key: ""

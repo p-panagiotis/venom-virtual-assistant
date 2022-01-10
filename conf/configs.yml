@@ -1,0 +1,10 @@
+# virtual assistant
+va.name: "Venom"
+va.master: ""
+va.pause_threshold: 1
+va.listen: True
+
+# logs
+core.logs.folder_path: "./logs"
+core.logs.max_bytes: 10485760
+core.logs.backup_count: 20
